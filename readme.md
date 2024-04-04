@@ -6,11 +6,11 @@
 
 # User
 
-- https://digital-cow-hat-backend-one.vercel.app/api/v1/auth/signup (POST)
+<!-- - https://digital-cow-hat-backend-one.vercel.app/api/v1/auth/signup (POST)
 - https://digital-cow-hat-backend-one.vercel.app/api/v1/users (GET)
 - https://digital-cow-hat-backend-one.vercel.app/api/v1/users/64bb73e7d8ca3c86fefccda9 (Single GET)
 - https://digital-cow-hat-backend-one.vercel.app/api/v1/users/64bb742ad8ca3c86fefccdac (PATCH)
-- https://digital-cow-hat-backend-one.vercel.app/api/v1/users/64bb73e7d8ca3c86fefccda9 (DELETE)
+- https://digital-cow-hat-backend-one.vercel.app/api/v1/users/64bb73e7d8ca3c86fefccda9 (DELETE) -->
 
 <!-- ## Cows
 
