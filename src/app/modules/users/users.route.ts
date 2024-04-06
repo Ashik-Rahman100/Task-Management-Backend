@@ -8,7 +8,7 @@ import { UserValidation } from './users.validation';
 const router = express.Router();
 
 router.get('/:id', auth(ENUM_USER_ROLE.USER), UserController.getSingleUser);
-router.get('/', auth(ENUM_USER_ROLE.ADMIN), UserController.getAllUsers);
+router.get('/', UserController.getAllUsers);
 router.get(
   '/my-profile',
   auth(ENUM_USER_ROLE.USER, ENUM_USER_ROLE.ADMIN),
